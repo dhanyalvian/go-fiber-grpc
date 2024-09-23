@@ -4,7 +4,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/dhanyalvian/go-fiber-grpc/proto"
+	// "github.com/dhanyalvian/go-fiber-grpc/proto"
+	"github.com/gofiber/recipes/fiber-grpc/proto"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"

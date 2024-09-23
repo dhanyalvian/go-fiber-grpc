@@ -1,0 +1,2 @@
+proto-generate:
+	protoc -I=/Users/dhanyalvian/go/src/research/gofiber/grpc/proto --go_out=/Users/dhanyalvian/go/src/research/gofiber/grpc/proto /Users/dhanyalvian/go/src/research/gofiber/grpc/proto/*.proto
